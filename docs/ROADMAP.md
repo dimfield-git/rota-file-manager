@@ -9,3 +9,6 @@
 - Preview/info pane
 - Search/filter
 - File ops (maybe)
+- [ ] Add --path <dir> (default: current working directory)
+- [ ] Format modified time (optional crate: time)
+- [ ] Add simple filter/search (/) over current dir

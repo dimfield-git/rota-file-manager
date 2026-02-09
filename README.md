@@ -1,4 +1,5 @@
 # Rota File Manager
+<img width="1536" height="1024" alt="1eb7a62a-c85e-44e6-998a-e9f46ba2b403" src="https://github.com/user-attachments/assets/2f6c03ea-ba08-421a-b42b-e358d096625c" />
 
 A keyboard-driven TUI file explorer for TedOS, built in Rust with [ratatui](https://github.com/ratatui/ratatui) and [crossterm](https://github.com/crossterm-rs/crossterm).
 

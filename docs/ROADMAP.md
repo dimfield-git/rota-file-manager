@@ -1,4 +1,5 @@
 # Rota File Manager — Roadmap
+<img width="1536" height="1024" alt="10084030-d2e9-4b04-9b22-eeec0be3a6c1" src="https://github.com/user-attachments/assets/494901e9-d748-4c39-9b4a-72b4cb408b8c" />
 
 > **Goal:** A fully functioning, keyboard-driven TUI file manager built in Rust with crossterm + ratatui.
 
